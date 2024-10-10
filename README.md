@@ -25,4 +25,4 @@ Shortcuts I would like to start using:
 - Win-D (show desktop)
 - Super-Hyper-Meta-F (I don’t even have such keys, but it sounds impressive)
 
-  [CLI commands](docs/cli.md)
+[CLI commands](docs/cli.md)
