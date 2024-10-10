@@ -20,6 +20,8 @@ Shortcuts I frequently use:
 - Ctrl-V (paste)
 - Ctrl-Z (undo)
 
+  [CLI commands](docs/cli.md)
+
 Shortcuts I would like to start using: 
 - Ctrl-A (select all)
 - Win-D (show desktop)
