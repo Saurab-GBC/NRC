@@ -2,7 +2,10 @@
     {
         "name": "James Brown", //string
         "sports": "Basketball", //string
-        "team": {"name": "Raptors", "city": "Toronto"} //string
+        "team": {
+            "name": "Raptors",
+            "city": "Toronto"
+        } //string
     },
     {
         "name": "Serena Williams", //string
